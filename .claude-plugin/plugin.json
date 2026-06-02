@@ -1,0 +1,19 @@
+{
+  "name": "proof-of-work",
+  "description": "An engineering-discipline layer for Claude Code: an evidence-first doctrine injected every session, plus verified-delivery and evidence-first-debugging skills. Makes the agent prove its work instead of claiming success.",
+  "version": "0.1.0",
+  "author": {
+    "name": "caosen"
+  },
+  "homepage": "https://github.com/Caxson/proof-of-work",
+  "repository": "https://github.com/Caxson/proof-of-work",
+  "license": "Apache-2.0",
+  "keywords": [
+    "discipline",
+    "verification",
+    "evidence-first",
+    "root-cause",
+    "debugging",
+    "doctrine"
+  ]
+}

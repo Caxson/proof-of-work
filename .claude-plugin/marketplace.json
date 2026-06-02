@@ -1,0 +1,31 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "proof-of-work",
+  "description": "Engineering-discipline layer for Claude Code — evidence-first doctrine and verification skills that make the agent prove its work.",
+  "owner": {
+    "name": "caosen",
+    "email": "caelumsilas0@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "proof-of-work",
+      "source": "./",
+      "description": "An evidence-first doctrine injected every session, plus verified-delivery and evidence-first-debugging skills. The agent must prove its work with real actions and real data, not claim success.",
+      "version": "0.1.0",
+      "author": {
+        "name": "caosen"
+      },
+      "homepage": "https://github.com/Caxson/proof-of-work",
+      "repository": "https://github.com/Caxson/proof-of-work",
+      "license": "Apache-2.0",
+      "category": "workflow",
+      "keywords": [
+        "discipline",
+        "verification",
+        "evidence-first",
+        "root-cause",
+        "debugging"
+      ]
+    }
+  ]
+}

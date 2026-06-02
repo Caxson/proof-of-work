@@ -1,0 +1,12 @@
+{
+  "name": "proof-of-work",
+  "version": "0.1.0",
+  "description": "An engineering-discipline layer: an evidence-first doctrine plus verified-delivery and evidence-first-debugging workflows. Makes the agent prove its work instead of claiming success.",
+  "author": {
+    "name": "caosen"
+  },
+  "homepage": "https://github.com/Caxson/proof-of-work",
+  "repository": "https://github.com/Caxson/proof-of-work",
+  "license": "Apache-2.0",
+  "keywords": ["discipline", "verification", "evidence-first", "root-cause", "debugging"]
+}
